@@ -1,0 +1,12 @@
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.deps.json
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.dll
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\bin\Debug\net6.0\TicTacToeLib.pdb
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.csproj.AssemblyReference.cache
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.AssemblyInfoInputs.cache
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.AssemblyInfo.cs
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.csproj.CoreCompileInputs.cache
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.dll
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\refint\TicTacToeLib.dll
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\TicTacToeLib.pdb
+C:\Users\79056\RiderProjects\TicTacToe\TicTacToeLib\obj\Debug\net6.0\ref\TicTacToeLib.dll
